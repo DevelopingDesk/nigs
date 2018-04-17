@@ -68,11 +68,11 @@ $(window).load(function() {
 			   <div class="flexslider">
 				  <ul class="slides">
 				    <li data-thumb="{{asset($product->image)}}">
-				        <div class="thumb-image"> <img src="{{asset($product->image)}}" data-imagezoom="true" class="img-responsive"> </div>
+				        <div class="thumb-image"> <img src="{{asset("public/".$product->image)}}" data-imagezoom="true" class="img-responsive"> </div>
 				    </li>
 				    @foreach($mor as $mo)
-				    <li data-thumb="{{asset($mo->image)}}">
-				       <div class="thumb-image"> <img src="{{asset($mo->image)}}" data-imagezoom="true" class="img-responsive"> </div>
+				    <li data-thumb="{{asset("public/".$mo->image)}}">
+				       <div class="thumb-image"> <img src="{{asset("public/".$mo->image)}}" data-imagezoom="true" class="img-responsive"> </div>
 				    </li> 
 				    @endforeach
 				  </ul>
@@ -110,7 +110,7 @@ $(window).load(function() {
 		   	 <div class="col-md-3 home-grid">
 					<div class="home-product-main">
 					   <div class="home-product-top">
-					      <a href="{{route('single.product',$relpr->id)}}"><img src="{{asset($relpr->image)}}" alt="" class="img-responsive zoom-img" height="280px"></a>
+					      <a href="{{route('single.product',$relpr->id)}}"><img src="{{asset("public/".$relpr->image)}}" alt="" class="img-responsive zoom-img" height="280px"></a>
 					   </div>
 						<div class="home-product-bottom">
 								<h3><a href="#">{{$relpr->name}}</a></h3>

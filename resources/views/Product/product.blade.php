@@ -86,7 +86,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			      <div class="col-md-4 home-grid">
 					<div class="home-product-main">
 					   <div class="home-product-top">
-					      <a href="{{route('single.product',$pro->id)}}"><img src="{{asset($pro->image)}}" alt="" class="img-responsive zoom-img" height="280px"></a>
+					      <a href="{{route('single.product',$pro->id)}}"><img src="{{asset("public/".$pro->image)}}" alt="" class="img-responsive zoom-img" height="280px"></a>
 					   </div>
 						<div class="home-product-bottom">
 								<h3><a href="">{{$pro->name}}</a></h3>

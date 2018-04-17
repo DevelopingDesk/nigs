@@ -24,7 +24,7 @@
             <tr>
             	<td>{{$mo->id}}</td>
             	<td>{{$mo->name}}</td>
-            	<td> <img src="{{asset($mo->image)}}" height="25px" width="25px" style="border-radius: 32px"></td>
+            	<td> <img src="{{asset("public/".$mo->image)}}" height="25px" width="25px" style="border-radius: 32px"></td>
             	<td><a href="{{route('delete.more',$mo->id)}}" class="btn btn-xs btn-danger"><i class="glyphicon glyphicon-remove"></i> Delete</a></td>
 
             </tr>
