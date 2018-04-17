@@ -28,12 +28,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<h2>Information</h2>
 				<h4>Nighat Corporation is pakistan first fastly growing compnany which is caring ,and reliable for our customers</p>
 			    <ul>
-			    	<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"> </span>location comming soon
+			    	<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"> </span>Village Viram ,koltli loharan ,sialkot pakistan
 zipcode 51310
 pakistan
 </li>
-			    	<li><span class="glyphicon glyphicon-phone" aria-hidden="true"> </span>comming soon</li>			    	
-			    	<li><span class="glyphicon glyphicon-envelope" aria-hidden="true"> </span><a href="info@nighatcorporation.com">info@nighatcorporation.com</a></li>
+			    	<li><span class="glyphicon glyphicon-phone" aria-hidden="true"> </span>03328733756</li>			    	
+			    	<li><span class="glyphicon glyphicon-envelope" aria-hidden="true"> </span><a href="Nighatcorporation@gmail.com">Nighatcorporation@gmail.com</a></li>
 			    </ul>
 			</div>
 			
