@@ -22,18 +22,18 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<div class="contact-main">
 			<div class="contact-top">
 				<h1>Contact Us</h1>
-				<p>Wackadoosports is producing standared products that are only available on our website feel free to contact with us</p>
+				<p>Nighat Corporation is producing standared products that are only available on our website feel free to contact with us</p>
 			</div>
 			<div class="col-md-6 contact-left">
 				<h2>Information</h2>
-				<h4>Wackadoosports is pakistan first fastly growing compnany which is caring ,and reliable for our customers</p>
+				<h4>Nighat Corporation is pakistan first fastly growing compnany which is caring ,and reliable for our customers</p>
 			    <ul>
-			    	<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"> </span>defence road,sialkot
+			    	<li><span class="glyphicon glyphicon-map-marker" aria-hidden="true"> </span>location comming soon
 zipcode 51310
 pakistan
 </li>
 			    	<li><span class="glyphicon glyphicon-phone" aria-hidden="true"> </span>comming soon</li>			    	
-			    	<li><span class="glyphicon glyphicon-envelope" aria-hidden="true"> </span><a href="info@wackadoosports.com">info@wackadoosports.com</a></li>
+			    	<li><span class="glyphicon glyphicon-envelope" aria-hidden="true"> </span><a href="info@nighatcorporation.com">info@nighatcorporation.com</a></li>
 			    </ul>
 			</div>
 			
