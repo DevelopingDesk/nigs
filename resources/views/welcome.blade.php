@@ -81,18 +81,8 @@ we give first priority to our customer requirments
         </div>
     </div>
 </div>
-<div class="blc-layer2">
-    <div class="container">
-        <div class="blc-layer2-main">
-             <div class="col-md-6 blc-layer2-left">
-                  
-             </div>
-             <div class="col-md-6 blc-layer2-right">
-                
-             </div>
-            <div class="clearfix"> </div>
-        </div>
-    </div>
+<div class="col-md-12">
+    <img src="{{asset('smart/images/hood.jpg')}}" class="img-responsive">
 </div>
 <!--block-layer1 end here-->
 <!--home-block start here-->
