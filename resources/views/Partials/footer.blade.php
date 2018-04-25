@@ -32,10 +32,10 @@
                 <div class="col-md-3 footer-grid-icon">
                     <ul>
                         
-                        <li><a href=""><img src="{{asset('fb.png')}}" height="30px"></a></li>
+                        <li><a href="https://www.facebook.com/Nighat-Corporation-177507546192299/"><img src="{{asset('fb.png')}}" height="30px"></a></li>
                          <li><a href=""><img src="{{asset('link.jpg')}}" height="30px"></a></li>
                        
-                         <li><a href=""><img src="{{asset('insta.jpg')}}" height="30px"></a></li>
+                         <li><a href="https://www.instagram.com/nighat_corporation/?hl=en"><img src="{{asset('insta.jpg')}}" height="30px"></a></li>
                       
                     </ul>
                    
