@@ -82,7 +82,7 @@ we give first priority to our customer requirments
     </div>
 </div>
 <div class="col-md-12">
-    <img src="{{asset('smart/images/hood.jpg')}}" class="img-responsive">
+    <img src="{{asset('hood.jpg')}}" class="img-responsive">
 </div>
 <!--block-layer1 end here-->
 <!--home-block start here-->
