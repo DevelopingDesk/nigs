@@ -21,7 +21,7 @@ $lat=Products::where('featured',0)->latest('created_at')->first();
 
 $cat=Category::all();
 $subcat=SubCategory::all();
-$pro=Products::all();
+$pro=Products::where('featured',1)->get();
     	return view('welcome')->withcat($cat)->withsub($subcat)->withpro($pro)->withfe($fe)->withlat($lat);
     }
 }
