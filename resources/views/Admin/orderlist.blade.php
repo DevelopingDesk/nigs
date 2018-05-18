@@ -13,6 +13,7 @@
        <td>
          <h4 style="color: blue">Country:{{$orders->country}}</h4>
        <h5 style="color: red">phone:{{$orders->phone}}</h5>
+        <h5 style="color: green">Email:{{$orders->email}}</h5>
        <p style="color: brown">Date:{{$orders->created_at}}</p>
             
             </td>
